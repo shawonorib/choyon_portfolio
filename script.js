@@ -14,8 +14,6 @@ let typed = new Typed(".auto-input", {
     "Web Developer!",
     "Web Designer!",
     "UI designer!",
-    "YouTuber!",
-    "Ojhora's Husband",
   ],
   typespeed: 500,
   backspeed: 500,
